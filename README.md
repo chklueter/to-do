@@ -1,6 +1,8 @@
 # to-do
 curriculum fixes and questions
 
+[ ] Clone [React repo](https://github.com/HackYourFuture/React) from Amsterdam
+
 [ ] Clone [CLI repo](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md) from Amsterdam
  
 - assure that mentors agre with contents
